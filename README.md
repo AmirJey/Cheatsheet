@@ -39,7 +39,7 @@ This repository contains a big list of programming languages cheat sheet. :rocke
 <h2>O</h2>
 
 <h2>P</h2>
-- [PHP] - Added by <img src="https://github.com/AmirJey.png?size=25" width="25" height="25"> <a href="https://github.com/AmirJey"> AmirJey </a>
+- [Abdal-Autoit](/Abdal-Autoit) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriaarrr](https://github.com/shahriaarrr)
 <h2>Q</h2>
 
 <h2>R</h2>

@@ -1,3 +1,11 @@
+<p>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AmirJeyz/CheatSheet">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AmirJeyz/CheatSheet">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmirJeyz/CheatSheet">
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/AmirJeyz/CheatSheetd">
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/AmirJeyz/CheatSheet">
+</p>
+
 # CheetSheat
 This repository contains a big list of programming languages cheat sheet. :rocket:
 

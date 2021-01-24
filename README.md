@@ -1,5 +1,5 @@
 # CheetSheat
-This repository contains a big list of programming languages cheat sheet.
+This repository contains a big list of programming languages cheat sheet. :rocket:
 
 <h2>A</h2>
 

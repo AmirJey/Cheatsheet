@@ -33,6 +33,8 @@ This repository contains a big list of programming languages cheat sheet. :rocke
 
 <h2>P</h2>
 
+- [PHP](/PHP) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJey](https://github.com/AmirJey)
+
 <h2>Q</h2>
 
 <h2>R</h2>
